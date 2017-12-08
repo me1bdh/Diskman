@@ -1,6 +1,5 @@
 # Diskman
 
-Issue is
 
 Beagle is getting full.
 
